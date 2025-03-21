@@ -1,0 +1,12 @@
+site_name: "My Library"
+
+# theme: readthedocs
+nav:
+  - Home: index.md
+  - FinancialCalc: financialcalc.md
+
+plugins:
+- search
+- mkdocstrings
+
+theme: readthedocs
